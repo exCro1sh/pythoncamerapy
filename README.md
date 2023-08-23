@@ -1,0 +1,2 @@
+# pythoncamerapy
+Gereksiz
